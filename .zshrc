@@ -147,4 +147,3 @@ luna() {
   rm -f ~/.kube/config
 }
 
-eval $(thefuck --alias)
